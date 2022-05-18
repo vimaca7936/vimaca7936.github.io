@@ -1,3 +1,3 @@
 # Vincent Vidal
 
-Hello
+![Step 1: Loading the footage](1.jpg)
