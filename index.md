@@ -2,4 +2,21 @@
 
 # **What is the context?**
 
-![Step 1: Loading the footage](1.png)
+We are in a world were internet and the uses of the computer are emerging. Too many people are struggling with papers. In fact, it is a common thing for everyone. For instance, when a lawyer wants to take holidays, he needs to bring with him every book of law that are having a link with its topic. The students from all part of the world are using a lot of paper, making erasures. We all need a special place for papers and pens in our luggage. People are having computer but the process to create documents and edit them is too complex. We need to find a solution to enable people to gain time. With Word we want to free the people from the paper’s dictature and end the discrimination against all the people that are having an ugly writing style.
+
+# Why should the video be interesting to watch?
+
+The video is interesting because it gives you a snapshot of what could be the future way of working. How to gain some more place in your life and by facilitating the way people are writing. It presents a product aimed at improving the people’s life and everyone will someone be impacted by this innovation. The video directly shows some features of the software. From the text editing to the image insertion. It links a problem of everyday life and link it to its solution. Indeed, the aspect of the work is not from a purely marketing or financial point of view. It is a problem orientated video that provide details on the product and its potential use in the daily life.
+
+# What considerations were put in the video?
+
+In this video I wanted to present a product that was very common and that has changed one of the most ancient Human skill: writing. I try to keep it simple without entering in the deep detail of the software in order to keep the video the clearest as possible. In addition, it is of course impossible to present all the Word’s features in a three-minute video. You can just type “how to use Word” on Internet to verify this fact. Even though the problem presented at the beginning was not the one why Word was originally created, I found it relevant since this work is not for a professional use. It is in fact dedicated to a teacher that has lived the arrival of Word. I found it interesting to play on this gap.
+
+# What story-telling scheme did you use?
+
+For a storytelling I will take the example of a student that is having a large amount of paper on his office. He is studying literature and needs to take a lot of notes during his classes. However, because his professors are talking too fast, he struggles for taking notes. He cannot use any colors and at the end of the day he is losing his time while trying to find information in all his papers. In addition, he is tired of using books and a lot of papers. He is mad about ca rrying a heavy bag every day. First for is back and secondly because it is ugly. He doesn’t know what to do about it. With his friends he wants to develop a new way of writing efficiently without wasting time. Everything will be centered in a software: Word. Then the student is presenting its product and telling what possibilities the software is offering. He only highlights the easiest points in order to keep it simple for everyone and to make an advertise that means something for everyone. Finally, the student is inviting the people to be part of the community of the people that are using the software.
+
+# Screenshot of how the video was produced?
+
+![Step 1: Loading the footage](1.jpg)
+![Step 1: Loading the footage](2.jpg)
