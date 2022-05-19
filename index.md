@@ -18,8 +18,10 @@ For a storytelling I will take the example of a student that is having a large a
 
 # **Screenshot of how the video was produced?**
 
-![Step 1: Loading the footage](1.jpg)
-![Step 1: Loading the footage](2.jpg)
+![1.jpg](https://png2jpg.com/fr/
+https://png2jpg.com/download/1kjtl331s5p7o62r/file_o5lbb5sfq12a81e6a10vi4bo1s/1.jpg)
+![2.jpg](https://png2jpg.com/fr/
+https://png2jpg.com/download/1kjtl331s5p7o62r/file_129pert9ss1u3itcl93u1ie31j/2.jpg)
 
 The references are at the very end of the video. I have used two soundtracks with respectively the music from Bensound and my personal voice. I have also added transitions and greens backgrounds to present the logo and the transitions.
 
